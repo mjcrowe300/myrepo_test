@@ -1,2 +1,2 @@
-# myrepo_test
+# myrepo
 testing my setup
